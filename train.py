@@ -1,10 +1,3 @@
-
-#########################################################################################################
-#
-#   ELEC 475 - Lab 1
-#   Fall 2023
-#
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
